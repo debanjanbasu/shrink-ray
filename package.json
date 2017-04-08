@@ -3,7 +3,7 @@
   "description": "Node.js compression middleware with brotli and zopfli support",
   "version": "0.1.4",
   "contributors": [
-    "Debanjan Basu <debanjanbasu2006@gmail.com>",
+    "Debanjan Basu <debanjanbasu2006@gmail.com>"
   ],
   "license": "MIT",
   "repository": "debanjanbasu/shrink-ray",
